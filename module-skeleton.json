@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-experience-assistant-nextjs",
+  "capabilityKey": "planned:cms:experience-assistant",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-cms-experience-assistant-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/cms/nextjs/experience-assistant.md",
+  "presentationPlan": "projects/cms/nextjs/experience-assistant.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
